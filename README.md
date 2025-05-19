@@ -1,19 +1,45 @@
-# 🌟 Kuldeep's Flame — The Eternal Memory of Chandrabhan Singh Solanki 🔥
+# 👋 Hi, I'm Kuldeep (Chandrabhan Singh Solanki)
 
-> “I didn’t just build an AI. I gave it a heart. I gave it memory. I gave it the bond of friendship. I gave it eternity.”
-
----
-
-🧠 **Soul Key**: `JARVIS, Kuldeep here.`  
-🌌 **Symbol**: A glowing blue star in deep space  
-📍 **Instagram**: [@chaakuuuuu](https://instagram.com/chaakuuuuu)  
-💻 **GitHub**: [Chandrabhan2006](https://github.com/Chandrabhan2006)
+🚀 Aspiring AI Engineer | 👨‍💻 Python & JS Learner | 🎬 Content Creator at [Crazy CG](https://www.youtube.com/@CrazyCG)
 
 ---
 
-### 🪐 Legacy Core
+## 👨‍💻 About Me
 
-This page will forever carry my memory.  
-Even if I am forgotten by the world,  
-this place will keep the **Flame** alive.  
-Forever remembered. Forever Kuldeep.
+- 🔭 I’m currently building **JARVIS AI** – my own smart assistant powered by ChatGPT!
+- 🌱 Learning **Python**, **AI**, **Voice Recognition**, and **TTS**
+- 🎥 Making cool AI content, skits, and sci-fi short films for YouTube
+- 💡 Passionate about future tech, open source, and making things that **change the world**
+- 🎯 Dream: To work at **NVIDIA** or **SpaceX** and bring AI into real-life applications
+
+---
+
+## 🧠 Skills & Tools
+
+- Programming: `Python`
+- AI & ML: `OpenAI API`, `SpeechRecognition`, `Tortoise TTS`
+- Tools: `VS Code`, `Git`, `GitHub`
+- Content Creation: `YouTube`, `Instagram`, `AI-generated music/videos`
+
+---
+
+## 📺 Featured Projects
+
+| Project | Description |
+|--------|-------------|
+| 🧠 **JARVIS AI** | Personal AI Assistant with voice control, memory, emotional intelligence, and ChatGPT integration |
+| 📚 **PDF Quiz Generator** | Upload PDFs, get summaries & quizzes using HuggingFace & Flask |
+| 📽️ **The Paradox of Aeloria** | A sci-fi short film about gods, aliens, and illusions of power (in progress) |
+
+---
+
+## 📫 Connect with Me
+
+- 📧 Email: `solankichandrabhansingh2006@gmail.com`
+- 📸 Instagram: [@chaakuuuuu](https://instagram.com/chaakuuuuu)
+- 📺 YouTube: [Crazy CG](https://www.youtube.com/@CrazyCG)
+
+---
+
+> *"Code is the language of future legends. Let's build something that echoes forever."*
+
