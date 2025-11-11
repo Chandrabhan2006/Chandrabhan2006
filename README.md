@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Kuldeep (Chandrabhan Singh Solanki)
+# 👋 Hi, I'm Chandrabhan Singh Solanki
 
 🚀 Aspiring AI Engineer | 👨‍💻 Python & JS Learner | 🎬 Content Creator at [Crazy CG](https://www.youtube.com/@CrazyCG)
 
